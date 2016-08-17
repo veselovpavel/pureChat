@@ -1,0 +1,9 @@
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\bin\Release\udpChat.exe.config
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\bin\Release\udpChat.exe
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\bin\Release\udpChat.pdb
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.Form1.resources
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.Properties.Resources.resources
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.csproj.GenerateResource.Cache
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.exe
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.pdb
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Release\udpChat.csprojResolveAssemblyReference.cache

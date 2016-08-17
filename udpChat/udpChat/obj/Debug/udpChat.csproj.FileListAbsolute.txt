@@ -1,0 +1,12 @@
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\bin\Debug\udpChat.exe.config
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\bin\Debug\udpChat.exe
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\bin\Debug\udpChat.pdb
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.csprojResolveAssemblyReference.cache
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.Properties.Resources.resources
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.csproj.GenerateResource.Cache
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.exe
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.pdb
+c:\users\smave\documents\visual studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.Form1.resources
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.CreateKeysForm.resources
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.getOpenKeyForm.resources
+C:\Users\smave\Documents\Visual Studio 2015\Projects\udpChat\udpChat\obj\Debug\udpChat.addOpenKeyForm.resources
